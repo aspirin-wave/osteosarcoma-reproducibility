@@ -1,4 +1,4 @@
-# Osteosarcoma study reproducibility
+# Single-cell and spatial transcriptomics identify REV3L as a target for cisplatin sensitization in osteosarcoma
 
 The analysis code and shareable source data for this study will be released in this repository upon publication of the associated article.
 
